@@ -62,5 +62,5 @@ Da parte da esteira ci/cd para o AWS, os envolvidos são:
 
 Da parte dos analistas de qualidade, os envolvidos são:
 
-    - Luzinete
+    - Luzinete Maciel
     - Kelly
